@@ -21,8 +21,8 @@
 * mk_datus_db_dv_tr_2021.csv : [*데이터스 롯데카드*](https://datus.lottecard.co.kr/data/dataProductView.lc?pdId=990000000001201)
 * mk_datus_db_dv_tr_2022.csv : [*데이터스 롯데카드*](https://datus.lottecard.co.kr/data/dataProductView.lc?pdId=990000000001201)
 ### 서울시 행정데이터
-* 파일명 : [*사이트/기관명*](링크)
-* 파일명 : [*사이트/기관명*](링크)
+* LOCAL_PEOPLE_GU_2022.csv : [*서울 열린데이터 광장*](https://data.seoul.go.kr/dataList/OA-15439/A/1/datasetView.do;jsessionid=C3AA1F0CD595CA1E7A56B34043FCD869.new_portal-svr-11)
+* skorea_municipalities_geo_simple.json : [*서울 열린데이터 광장*](http://data.seoul.go.kr/dataList/OA-12582/S/1/datasetView.do)
 ### 시간대별 주문건수 데이터
 * KGU_3rd_ORIGIN_KGUDSTNORDER_20190101000000.csv : [*KT 통신 빅데이터 플랫폼 / 경기대학교 빅데이터센터*](https://bdp.kt.co.kr/invoke/SOKBP2603/?goodsCode=KGUDSTNORDER)
 * KGU_3rd_ORIGIN_KGUDSTNORDER_20200101000000.csv : [*KT 통신 빅데이터 플랫폼 / 경기대학교 빅데이터센터*](https://bdp.kt.co.kr/invoke/SOKBP2603/?goodsCode=KGUDSTNORDER)
