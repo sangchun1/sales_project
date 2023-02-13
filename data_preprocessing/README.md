@@ -35,11 +35,11 @@
 * 파일명 : [*사이트/기관명*](링크)
 * 파일명 : [*사이트/기관명*](링크)
 ### 요일별 지역 주문건수 데이터
-* 파일명 : [*사이트/기관명*](링크)
-* 파일명 : [*사이트/기관명*](링크)
-* 파일명 : [*사이트/기관명*](링크)
-* 파일명 : [*사이트/기관명*](링크)
-* 파일명 : [*사이트/기관명*](링크)
+* KGU_3rd_ORIGIN_KGUAREADOITEM_20190701000000 : [*KT 통신 빅데이터 플랫폼 / 경기대학교 빅데이터센터*](https://bdp.kt.co.kr/invoke/SOKBP2603/?goodsCode=KGUAREADOITEM)
+* KGU_3rd_ORIGIN_KGUAREADOITEM_20200101000000 : [*KT 통신 빅데이터 플랫폼 / 경기대학교 빅데이터센터*](https://bdp.kt.co.kr/invoke/SOKBP2603/?goodsCode=KGUAREADOITEM)
+* KGU_3rd_ORIGIN_KGUAREADOITEM_20200701000000 : [*KT 통신 빅데이터 플랫폼 / 경기대학교 빅데이터센터*](https://bdp.kt.co.kr/invoke/SOKBP2603/?goodsCode=KGUAREADOITEM)
+* KGU_3rd_ORIGIN_KGUAREADOITEM_20210101000000 : [*KT 통신 빅데이터 플랫폼 / 경기대학교 빅데이터센터*](https://bdp.kt.co.kr/invoke/SOKBP2603/?goodsCode=KGUAREADOITEM)
+* KGU_3rd_ORIGIN_KGUAREADOITEM_20210701000000 : [*KT 통신 빅데이터 플랫폼 / 경기대학교 빅데이터센터*](https://bdp.kt.co.kr/invoke/SOKBP2603/?goodsCode=KGUAREADOITEM)
 ### 월별 행정동별 소비 데이터
 * 파일명 : [*사이트/기관명*](링크)
 * 파일명 : [*사이트/기관명*](링크)
