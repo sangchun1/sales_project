@@ -24,13 +24,13 @@
 * 파일명 : [*사이트/기관명*](링크)
 * 파일명 : [*사이트/기관명*](링크)
 ### 시간대별 주문건수 데이터
-* 파일명 : [*사이트/기관명*](링크)
-* 파일명 : [*사이트/기관명*](링크)
-* 파일명 : [*사이트/기관명*](링크)
+* KGU_3rd_ORIGIN_KGUDSTNORDER_20190101000000.csv : [*KT 통신 빅데이터 플랫폼 / 경기대학교 빅데이터센터*](https://bdp.kt.co.kr/invoke/SOKBP2603/?goodsCode=KGUDSTNORDER)
+* KGU_3rd_ORIGIN_KGUDSTNORDER_20200101000000.csv : [*KT 통신 빅데이터 플랫폼 / 경기대학교 빅데이터센터*](https://bdp.kt.co.kr/invoke/SOKBP2603/?goodsCode=KGUDSTNORDER)
+* KGU_3rd_ORIGIN_KGUDSTNORDER_20210101000000.csv : [*KT 통신 빅데이터 플랫폼 / 경기대학교 빅데이터센터*](https://bdp.kt.co.kr/invoke/SOKBP2603/?goodsCode=KGUDSTNORDER)
 ### 시간대별 주문금액 데이터
-* 파일명 : [*사이트/기관명*](링크)
-* 파일명 : [*사이트/기관명*](링크)
-* 파일명 : [*사이트/기관명*](링크)
+* KGU_3rd_ORIGIN_KGUDSTNAMOUNT_20190101000000.csv : [*KT 통신 빅데이터 플랫폼 / 경기대학교 빅데이터센터*](https://bdp.kt.co.kr/invoke/SOKBP2603/?goodsCode=KGUDSTNAMOUNT)
+* KGU_3rd_ORIGIN_KGUDSTNAMOUNT_20200101000000.csv : [*KT 통신 빅데이터 플랫폼 / 경기대학교 빅데이터센터*](https://bdp.kt.co.kr/invoke/SOKBP2603/?goodsCode=KGUDSTNAMOUNT)
+* KGU_3rd_ORIGIN_KGUDSTNAMOUNT_20210101000000.csv : [*KT 통신 빅데이터 플랫폼 / 경기대학교 빅데이터센터*](https://bdp.kt.co.kr/invoke/SOKBP2603/?goodsCode=KGUDSTNAMOUNT)
 ### 온라인소비 업종별 시간대별 결제 데이터
 * 파일명 : [*사이트/기관명*](링크)
 * 파일명 : [*사이트/기관명*](링크)
