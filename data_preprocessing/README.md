@@ -21,7 +21,7 @@
 * mk_datus_db_dv_tr_2021.csv : [*데이터스 롯데카드*](https://datus.lottecard.co.kr/data/dataProductView.lc?pdId=990000000001201)
 * mk_datus_db_dv_tr_2022.csv : [*데이터스 롯데카드*](https://datus.lottecard.co.kr/data/dataProductView.lc?pdId=990000000001201)
 ### 서울시 행정데이터
-* LOCAL_PEOPLE_GU_2022.csv : [*서울 열린데이터 광장*](https://data.seoul.go.kr/dataList/OA-15439/A/1/datasetView.do;jsessionid=C3AA1F0CD595CA1E7A56B34043FCD869.new_portal-svr-11)
+* 주민등록인구_20230214130825.csv : [*서울 열린데이터 광장*](https://data.seoul.go.kr/dataList/419/S/2/datasetView.do)
 * skorea_municipalities_geo_simple.json : [*서울 열린데이터 광장*](http://data.seoul.go.kr/dataList/OA-12582/S/1/datasetView.do)
 ### 시간대별 주문건수 데이터
 * KGU_3rd_ORIGIN_KGUDSTNORDER_20190101000000.csv : [*KT 통신 빅데이터 플랫폼 / 경기대학교 빅데이터센터*](https://bdp.kt.co.kr/invoke/SOKBP2603/?goodsCode=KGUDSTNORDER)
@@ -48,3 +48,7 @@
 * 07_24_04_P_일반음식점.xlsx : [*행정안전부*](https://www.data.go.kr/data/15045016/fileData.do?recommendDataYn=Y)
 * 07_24_04_P_일반음식점 (1).xlsx : [*행정안전부*](https://www.data.go.kr/data/15045016/fileData.do?recommendDataYn=Y)
 * 07_24_04_P_일반음식점 (2).xlsx : [*행정안전부*](https://www.data.go.kr/data/15045016/fileData.do?recommendDataYn=Y)
+### 주문지역 기상 정보
+*
+* KGU_2nd_ORIGIN_KGUWETHERINFO_20201031000000: [*KT 통신 빅데이터 플랫폼 / 경기대학교 빅데이터센터*](https://www.bigdata-telecom.kr/invoke/SOKBP2603/?goodsCode=KGUWETHERINFO)
+* KGU_2nd_ORIGIN_KGUWETHERINFO_20211013000000: [*KT 통신 빅데이터 플랫폼 / 경기대학교 빅데이터센터*](https://www.bigdata-telecom.kr/invoke/SOKBP2603/?goodsCode=KGUWETHERINFO)
