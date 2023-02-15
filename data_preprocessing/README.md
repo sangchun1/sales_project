@@ -49,6 +49,5 @@
 * 07_24_04_P_일반음식점 (1).xlsx : [*행정안전부*](https://www.data.go.kr/data/15045016/fileData.do?recommendDataYn=Y)
 * 07_24_04_P_일반음식점 (2).xlsx : [*행정안전부*](https://www.data.go.kr/data/15045016/fileData.do?recommendDataYn=Y)
 ### 주문지역 기상 정보
-*
 * KGU_2nd_ORIGIN_KGUWETHERINFO_20201031000000: [*KT 통신 빅데이터 플랫폼 / 경기대학교 빅데이터센터*](https://www.bigdata-telecom.kr/invoke/SOKBP2603/?goodsCode=KGUWETHERINFO)
 * KGU_2nd_ORIGIN_KGUWETHERINFO_20211013000000: [*KT 통신 빅데이터 플랫폼 / 경기대학교 빅데이터센터*](https://www.bigdata-telecom.kr/invoke/SOKBP2603/?goodsCode=KGUWETHERINFO)
