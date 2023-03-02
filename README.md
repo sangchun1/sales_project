@@ -8,7 +8,7 @@
 ## 👨‍💼 팀원
 
 <ul>
-  <li>남기태 - <a href="https://github.com/깃허브 이름">krkoki</a></li>
+  <li>남기태 - <a href="https://github.com/krkoki">krkoki</a></li>
   <li>박상춘 - <a href="https://github.com/sangchun1">sangchun1</a></li>
   <li>장민수 - <a href="https://github.com/xuyite">xuyite</a></li>
 </ul>
