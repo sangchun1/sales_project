@@ -52,4 +52,4 @@
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer)
