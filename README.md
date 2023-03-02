@@ -9,7 +9,7 @@
 <ul>
   <li>남기태 - <a href="https://github.com/깃허브 이름">깃허브 이름</a></li>
   <li>박상춘 - <a href="https://github.com/sangchun1">sangchun1</a></li>
-  <li>장민수 - <a href="https://github.com/깃허브 이름">깃허브 이름</a></li>
+  <li>장민수 - <a href="https://github.com/xuyite">xuyite</a></li>
 </ul>
 
 ## :microscope: 수행절차 및 방법
@@ -17,14 +17,23 @@
 ### 데이터 전처리
  - *[데이터 전처리 폴더 참고](https://github.com/sangchun1/sales_project/tree/master/data_preprocessing)*
 ### 데이터 분석
- 1. 인구 통계학적 분석
-    * (사용한 파일들)
- 2. 경쟁업체 분석
-    * (사용한 파일들)
- 3. 인근상권 분석
-    * (사용한 파일들)
- 4. 소비 트렌드 분석
-    * (사용한 파일들)
+ 1. **인구 통계학적 분석**
+    * Seoul_delivery_analysis.pbix
+    * seoul_delievery_analysis.ipynb
+    * seoul_population.ipynb
+ 2. **경쟁업체 분석**
+    * Seoul_delivery_analysis.pbix
+    * rating_crawling.ipynb
+    * seoul_food_ratings.html
+ 3. **인근상권 분석**
+    * Seoul_delivery_analysis.pbix
+    * Preprocessing_Seoul_store_data.ipynb
+    * monthly_order.ipynb
+ 4. **소비 트렌드 분석**
+    * Seoul_delivery_analysis.pbix
+    * Preprocessing_Online_consumption_data.ipynb
+    * time_int_order.ipynb
+    * order__trend.ipynb
 ## :seedling: 사용 언어
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -44,3 +53,4 @@
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+# readmy
