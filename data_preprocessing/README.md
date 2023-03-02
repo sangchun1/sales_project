@@ -53,4 +53,4 @@
 * KGU_2nd_ORIGIN_KGUWETHERINFO_20201031000000: [*KT 통신 빅데이터 플랫폼 / 경기대학교 빅데이터센터*](https://www.bigdata-telecom.kr/invoke/SOKBP2603/?goodsCode=KGUWETHERINFO)
 * KGU_2nd_ORIGIN_KGUWETHERINFO_20211013000000: [*KT 통신 빅데이터 플랫폼 / 경기대학교 빅데이터센터*](https://www.bigdata-telecom.kr/invoke/SOKBP2603/?goodsCode=KGUWETHERINFO)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer)
