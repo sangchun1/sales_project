@@ -18,13 +18,13 @@
  - *[데이터 전처리 폴더 참고](https://github.com/sangchun1/sales_project/tree/master/data_preprocessing)*
 ### 데이터 분석
  1. 인구 통계학적 분석
-  - (사용한 파일들)
+    * (사용한 파일들)
  2. 경쟁업체 분석
-  - (사용한 파일들)
+    * (사용한 파일들)
  3. 인근상권 분석
-  - (사용한 파일들)
+    * (사용한 파일들)
  4. 소비 트렌드 분석
-  - (사용한 파일들)
+    * (사용한 파일들)
 ## :seedling: 사용 언어
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
