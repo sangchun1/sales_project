@@ -24,17 +24,26 @@
     * seoul_population.ipynb
  2. **경쟁업체 분석**
     * Seoul_delivery_analysis.pbix
+    * seoul_delievery_analysis.ipynb
     * rating_crawling.ipynb
-    * seoul_food_ratings.html
  3. **인근상권 분석**
     * Seoul_delivery_analysis.pbix
+    * seoul_delievery_analysis.ipynb
     * Preprocessing_Seoul_store_data.ipynb
     * monthly_order.ipynb
  4. **소비 트렌드 분석**
     * Seoul_delivery_analysis.pbix
+    * seoul_delievery_analysis.ipynb
     * Preprocessing_Online_consumption_data.ipynb
     * time_int_order.ipynb
-    * order__trend.ipynb
+    * order_trend.ipynb
+    
+## :bar_chart: 결과물
+### Power BI 구현 
+ * Seoul_delivery_analysis.pbix
+### 파이썬 분석 
+ * seoul_delievery_analysis.ipynb
+    
 ## :seedling: 사용 언어
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
