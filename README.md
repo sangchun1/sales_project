@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=sales_project&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=sales_project%20:%20배달음식점%20예비%20창업주를%20위한%20길라잡이&fontSize=30)
 
-### :bike: 배달음식점 예비 창업주를 위한 길라잡이 :bike:
+### :bike: 수행기간 : 2023.02.06 ~ 2023.03.03
 
 ## :bulb: 주제
 영업판매 관리분석이라는 큰 틀 안에서 **'배달음식점 창업'** 이라는 세부적인 주제를 선정하여 예비 창업주를 위하여 **어느 지역에서, 어느 요식 업종**을 정하여 창업을 하고, 또한 **오픈시기**, **영업시간**, **휴무요일** 등 영업을 위한 여러가지 요소들을 지혜롭게 결정할 수 있도록 데이터를 분석 및 제공하여 더욱더 성공할 수 있는 음식점을 차릴 수 있도록 도울 수 있는 프로젝트입니다.
@@ -44,21 +44,26 @@
 ### 파이썬 분석 
  * seoul_delievery_analysis.ipynb
     
-## :seedling: 사용 언어
+## :seedling: 사용한 언어, DBMS, 프레임워크, 툴
+#### 언어
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power BI-F2c811?style=flat-square&logo=powerbi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </div>
 
-## :computer: 사용 툴
+#### DBMS
+<div align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</div>
+  
+#### 프레임워크
+<div align="left">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power BI-F2c811?style=flat-square&logo=powerbi&logoColor=white"/>
+</div>  
+
+#### 툴
 <div align="left">
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/>
-</div>
-<div align="left">
-  <img src="https://img.shields.io/badge/Microsoft Powerpoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 </div>
 
